@@ -8,7 +8,7 @@ public class Main {
             temp = 1f / (float) k;
             System.out.printf("%.2f + ", temp);
         }
-        temp = 1f / 10;
+        temp = 1f / 10f;
         System.out.printf("%.2f", temp);
     }
 }
